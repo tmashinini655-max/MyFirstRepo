@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+My name is Thando Mashinini and I am based in Johannesburg, South Africa. I am currently learning how to use GitHub as part of my coursework.
+
+I am interested in technology, problem solving, and using code to address real issues in my community. This repository is one of my first steps in practising version control and collaborating on software projects.
